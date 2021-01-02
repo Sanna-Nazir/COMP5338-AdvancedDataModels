@@ -1,2 +1,2 @@
 # AdvancedDataModels
-University Coursework for COMP5338: Advanced Data Models (Semester 2, 2020)
+University of Sydney Coursework for COMP5338: Advanced Data Models (Semester 2, 2020)
